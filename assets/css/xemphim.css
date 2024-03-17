@@ -1,0 +1,21 @@
+.ul1{
+    text-align: none;
+    list-style: none;
+    color: #ce9090;
+    padding-left: 14px;
+    
+}
+.ul1 a{
+    text-decoration: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    color: #ce9090;
+    padding-bottom: 12px;
+}
+.ul1 a:hover{
+    color: aliceblue;
+    white-space: inherit;
+    
+}
